@@ -8,7 +8,7 @@
 
 - 💕 **AI, ML, Image Processing and Computer Vision**
 
-- ❓  **Discuss about anything related to React JS, FastAPI, Data Structures and Tech**
+- ❓  **Discuss about anything related to React JS, API, Data Structures and Tech**
 
 - 📫 How to reach me **parade.pruthvi@gmail.com**
 
