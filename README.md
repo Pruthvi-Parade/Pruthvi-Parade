@@ -2,8 +2,6 @@
 <h3 align="center">A passionate FullStack developer & AI,ML practitioner from India</h3>
 <img alt="Welcome banner" height="300px" width="100%" src="https://media.tenor.com/yX4iwxpxTIIAAAAC/welcome-gif.gif">
 
-- 💼 I’m currently working with **Smartiam**
-
 - 🌱 Love to exchange random ideas ✨ 
 
 - 💕 **AI, ML, Image Processing and Computer Vision**
