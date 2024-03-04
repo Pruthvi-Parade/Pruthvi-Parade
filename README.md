@@ -43,7 +43,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 <img style="margin: 10px" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/langchain3.png" alt="LangChain" height="50" />  
-<img style="margin: 10px" src="https://www.svgrepo.com/show/306500/openai.svg" alt="LangChain" height="50" />  
+<img style="margin: 10px" src="https://www.svgrepo.com/show/306500/openai.svg" alt="OpenAI" height="50" />  
+<img style="margin: 10px" src="https://lever-client-logos.s3.us-west-2.amazonaws.com/d63643d1-7a20-4e1b-b46d-5308d32d64c2-1622043098512.png" alt="OpenAI" height="50" />  
 </div></td></tr></table>  
 
 ## Github Stats  
