@@ -60,7 +60,7 @@
 <br/>
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3156lobkb5rbsvj3py6rtycdxjxa&cover_image=true" /></div>  
+<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3156lobkb5rbsvj3py6rtycdxjxa&cover_image=true" /></div> --> 
 
 <br/> 
 
