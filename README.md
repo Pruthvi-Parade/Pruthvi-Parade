@@ -55,7 +55,7 @@
 
 <br/>  
 
-<center><p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvi-parade&" alt="pruthvi-parade" /></p></center>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvi-parade&" alt="pruthvi-parade" /></p>
 
 <br/>
 <br/>  
@@ -70,9 +70,9 @@
   <a href="https://www.instagram.com/parade_pruthvi/"><img alt="instagram" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a> 
   <a href="mailto:pruthvi.parade@gmail.com"><img alt="email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
   
-<!--   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pruthvi-parade&show_icons=true&locale=en&layout=compact" alt="pruthvi-parade" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pruthvi-parade&show_icons=true&locale=en&layout=compact" alt="pruthvi-parade" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pruthvi-parade&show_icons=true&locale=en" alt="pruthvi-parade" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pruthvi-parade&show_icons=true&locale=en" alt="pruthvi-parade" /></p>
 <!---
 Pruthvi-Parade/Pruthvi-Parade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
