@@ -4,7 +4,7 @@
 
 - 🌱 Love to exchange random ideas ✨ 
 
-- 💕 **AI, ML, Image Processing and Computer Vision**
+- 💕 **AI, ML, Image Processing and LLM**
 
 - ❓  **Discuss about anything related to React JS, FastAPI, Data Structures and Tech**
 
