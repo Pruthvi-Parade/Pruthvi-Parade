@@ -6,7 +6,7 @@
 
 - 💕 **AI, ML, Image Processing and LLM**
 
-- ❓  **Discuss about anything related to React JS, FastAPI, Data Structures and Tech**
+- ❓  **Discuss about anything related to Next JS, FastAPI, Data Structures and Tech**
 
 - 📫 How to reach me **parade.pruthvi@gmail.com**
 
@@ -55,7 +55,7 @@
 
 <br/>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvi-parade&" alt="pruthvi-parade" /></p>
+<center><p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvi-parade&" alt="pruthvi-parade" /></p></center>
 
 <br/>
 <br/>  
