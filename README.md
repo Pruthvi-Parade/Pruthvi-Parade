@@ -6,9 +6,9 @@
 
 - 🌱 Love to exchange random ideas ✨ 
 
-- 💕 **AI, ML, Image Processing and LLM**
+- 💕 AI, ML, Image Processing and LLM
 
-- ❓  **Discuss about anything related to Next JS, FastAPI, AI and Tech **
+- ❓ Discuss about anything related to Next JS, FastAPI, AI and Tech
 
 - 📫 How to reach me **parade.pruthvi@gmail.com**
 
