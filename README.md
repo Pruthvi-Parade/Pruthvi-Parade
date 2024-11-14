@@ -51,7 +51,7 @@
 
 ## Github Stats  
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pruthvi-Parade&theme=dark&exclude_days=Sun%2CSat" alt="GitHub Streak />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pruthvi-Parade&theme=dark&hide_border=true" alt="GitHub Streak />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pruthvi-parade&show_icons=true&locale=en" alt="pruthvi-parade" />
