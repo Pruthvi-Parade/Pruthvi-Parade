@@ -1,72 +1,80 @@
 <h1 align="center">Hi 👋, I'm Pruthvi Parade</h1>
-<!-- <h3 align="center">A passionate FullStack developer & AI,ML practitioner from India</h3>
-<div align="center"> -->
+
+<p align="center">
   <img alt="Welcome banner" height="300px" width="100%" src="https://cdn.pixabay.com/video/2019/10/26/28320-369325356_large.mp4">
+</p>
+
+<p align="center">🚀 A passionate Full-Stack Developer and AI/ML Enthusiast from India.</p>
+
+---
+
+### 🌟 About Me  
+- 🌱 I love exchanging random ideas ✨  
+- 💕 Enthusiast in AI, ML, Image Processing, and Large Language Models (LLMs)  
+- ❓ Open to discussions on **Next.js**, **FastAPI**, **AI**, and other tech topics  
+- 📫 Reach me at **parade.pruthvi@gmail.com**
+
+---
+
+## 🚀 My Skill Set  
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<h3>Frontend</h3>
+<div>  
+  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" style="margin: 10px;" />  
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" height="50" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" style="margin: 10px;" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="margin: 10px;" />   
+  <img src="https://nextui.org/apple-touch-icon.png" alt="Next UI" height="50" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" style="margin: 10px;" />  
 </div>
+</td>
 
-- 🌱 Love to exchange random ideas ✨ 
-
-- 💕 AI, ML, Image Processing and LLM
-
-- ❓ Discuss about anything related to Next JS, FastAPI, AI and Tech
-
-- 📫 How to reach me **parade.pruthvi@gmail.com**
-
-
-## My Skill Set  
-<div align="center">
-  <table><tr><td valign="top" width="33%">
-    <h3>Frontend</h3>
-    <div>  
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-      <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next JS" height="50" />
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />   
-      <img style="margin: 10px" src="https://nextui.org/apple-touch-icon.png" alt="Next UI" height="50" />
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-    </div>
-  </td><td valign="top" width="33%">
-    <h3>Backend</h3>
-    <div>  
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-      <img style="margin: 10px" src="https://w7.pngwing.com/pngs/56/223/png-transparent-node-js-javascript-computer-icons-github-angle-text-logo.png" alt="Node" height="50" />  
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-      <img style="margin: 10px" src="https://upload.wikimedia.org/wikiversity/en/8/8c/FastAPI_logo.png" alt="Fastapi" height="50" />
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-    </div>
-  </td><td valign="top" width="33%">
-    <h3>DevOps | AI</h3>
-    <div>  
-      <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />   -->
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-      <img style="margin: 10px" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/langchain3.png" alt="LangChain" height="50" />  
-    </div>
-  </td></tr></table>
+<td align="center" width="33%">
+<h3>Backend</h3>
+<div>  
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="margin: 10px;" />  
+  <img src="https://w7.pngwing.com/pngs/56/223/png-transparent-node-js-javascript-computer-icons-github-angle-text-logo.png" alt="Node.js" height="50" style="margin: 10px;" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" style="margin: 10px;" />
+  <img src="https://upload.wikimedia.org/wikiversity/en/8/8c/FastAPI_logo.png" alt="FastAPI" height="50" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="margin: 10px;" />  
 </div>
+</td>
 
-## Github Stats  
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pruthvi-Parade&theme=dark&hide_border=true" alt="GitHub Streak />
+<td align="center" width="33%">
+<h3>DevOps & AI</h3>
+<div>  
+  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" style="margin: 10px;" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="margin: 10px;" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" style="margin: 10px;" />  
+  <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/langchain3.png" alt="LangChain" height="50" style="margin: 10px;" />  
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pruthvi-parade&show_icons=true&locale=en" alt="pruthvi-parade" />
-</div>
+</td>
+</tr>
+</table>
 
-<br/>
-<br/>
+---
 
-<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3156lobkb5rbsvj3py6rtycdxjxa&cover_image=true" /></div> --> 
+## 📊 GitHub Stats  
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pruthvi-Parade&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pruthvi-parade&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
 
-## Connect with me  
-<div align="center">
-  <a href="https://www.linkedin.com/in/pruthvi-parade-2040b0248/"><img alt="LINKEDIN" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a> 
-  <a href="https://www.instagram.com/parade_pruthvi/"><img alt="instagram" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a> 
-  <a href="mailto:pruthvi.parade@gmail.com"><img alt="email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
-</div>
+---
+
+## 🤝 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pruthvi-parade-2040b0248/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="40" /></a>
+  <a href="https://www.instagram.com/parade_pruthvi/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="40" /></a>
+  <a href="mailto:pruthvi.parade@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="40" /></a>
+</p>
+
