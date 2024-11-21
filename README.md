@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pruthvi Parade</h1>
 
 <p align="center">
-  <img alt="Welcome banner" height="300px" width="100%" src="https://miro.medium.com/v2/resize:fit:996/format:webp/1*FfBynQBLv37OqXazih_Yyw.gif">
+  <img alt="Welcome banner" height="220px" width="100%" src="https://miro.medium.com/v2/resize:fit:996/format:webp/1*FfBynQBLv37OqXazih_Yyw.gif">
 </p>
 
 <p align="center">🚀 A passionate Full-Stack Developer and AI/ML Enthusiast from India.</p>
