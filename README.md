@@ -38,7 +38,7 @@
 <h3>Backend</h3>
 <div>
 <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="margin: 10px;" />
-<img src="https://w7.pngwing.com/pngs/56/223/png-transparent-node-js-javascript-computer-icons-github-angle-text-logo.png" alt="Node.js" height="50" style="margin: 10px;" />
+<img src="https://p7.hiclipart.com/preview/156/344/1024/node-js-javascript-openshift-node-border.jpg" alt="Node.js" height="50" style="margin: 10px;" />
 <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" style="margin: 10px;" />
 <img src="https://upload.wikimedia.org/wikiversity/en/8/8c/FastAPI_logo.png" alt="FastAPI" height="50" style="margin: 10px;" />
 <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="margin: 10px;" />
