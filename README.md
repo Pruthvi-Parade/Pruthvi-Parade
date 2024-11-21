@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pruthvi Parade</h1>
 <!-- <h3 align="center">A passionate FullStack developer & AI,ML practitioner from India</h3>
 <div align="center"> -->
-  <img alt="Welcome banner" height="300px" width="100%" src="https://media.tenor.com/yX4iwxpxTIIAAAAC/welcome-gif.gif">
+  <img alt="Welcome banner" height="300px" width="100%" src="https://cdn.pixabay.com/video/2019/10/26/28320-369325356_large.mp4">
 </div>
 
 - 🌱 Love to exchange random ideas ✨ 
