@@ -4,7 +4,7 @@
 
 <h1 align="center">I'm Pruthvi Parade👋</h1>
 
-<p align="center">🚀 A passionate Full-Stack Developer and AI/ML Enthusiast from India.</p>
+<p align="center">🚀 A passionate Full-Stack Developer and AI | ML Enthusiast from India.</p>
 
 ---
 
