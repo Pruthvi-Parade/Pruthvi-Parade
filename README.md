@@ -1,6 +1,7 @@
-<p align="center">
+<!-- <p align="center">
 <img alt="Welcome banner" height="250px" width="100%" src="https://miro.medium.com/v2/resize:fit:996/format:webp/1*FfBynQBLv37OqXazih_Yyw.gif">
 </p>
+-->
 
 <h1 align="center">I'm Pruthvi Parade👋</h1>
 
