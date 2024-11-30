@@ -11,7 +11,7 @@
 
 ### 🌟 About Me
 - 🌱 I love exchanging random ideas ✨
-- 💕 Enthusiast in AI, ML, Image Processing, and Large Language Models (LLMs)
+- 💕 Enthusiast in AI, ML, Image Processing, and LLMs
 - ❓ Open to discussions on **Next.js**, **FastAPI**, **AI**, and other tech topics
 - 📫 Reach me at **parade.pruthvi@gmail.com**
 ---
