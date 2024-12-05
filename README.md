@@ -51,7 +51,7 @@
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" style="margin: 10px;" />
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="margin: 10px;" />
 <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" style="margin: 10px;" />
-<img src="[Your LangChain Icon URL]" alt="[LangChain]" height= "50", style= "margin: 10px;"/>
+<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/langchain3.png" alt="[LangChain]" height= "50", style= "margin: 10px;"/>
 </div>
 </td>
 </tr>
