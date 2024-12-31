@@ -76,9 +76,9 @@
 ## 🤝 Connect with Me
 
 <p align='center'>
-<a href='https://www.linkedin.com/in/pruthvi-parade-2040b0248/'><img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='LinkedIn' height='40' /></a>
-<a href='https://www.instagram.com/parade_pruthvi/'><img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='Instagram' height='40' /></a>
-<a href='mailto:parade.pruthvi@gmail.com'><img src='https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg' alt='Email' height='40' /></a>
+  <a href='https://www.linkedin.com/in/pruthvi-parade-2040b0248/' style='padding: 10px;'><img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='LinkedIn' height='40' /></a>
+  <a href='https://www.instagram.com/parade_pruthvi/' style='padding: 10px;'><img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='Instagram' height='40' /></a>
+  <a href='mailto:parade.pruthvi@gmail.com' style='padding: 10px;'><img src='https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg' alt='Email' height='40' /></a>
 </p>
 
 ---
