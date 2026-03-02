@@ -80,10 +80,9 @@
 
 <br/>
 
-<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="50"/>
-&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/docker" height="50"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/linux" height="50"/>
