@@ -18,33 +18,35 @@
 
 ## ⚙ Tech Stack
 
-<table align="center" width="100%">
+<table>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
 ### 🧠 AI / LLM
 
-<br/>
-
-<img src="https://cdn.simpleicons.org/langchain" height="45"/>
-<img src="https://cdn.simpleicons.org/openai" height="45"/>
-<img src="https://cdn.simpleicons.org/vercel" height="45"/>
+<img src="https://cdn.simpleicons.org/langchain" height="48"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openai" height="48"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/vercel" height="48"/>
 
 <br/><br/>
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
 ### 💻 Backend
 
-<br/>
-
-<img src="https://cdn.simpleicons.org/python" height="45"/>
-<img src="https://cdn.simpleicons.org/fastapi" height="45"/>
-<img src="https://cdn.simpleicons.org/nodedotjs" height="45"/>
-<img src="https://cdn.simpleicons.org/redis" height="45"/>
-<img src="https://cdn.simpleicons.org/postgresql" height="45"/>
+<img src="https://cdn.simpleicons.org/python" height="48"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/fastapi" height="48"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nodedotjs" height="48"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/redis" height="48"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql" height="48"/>
 
 <br/><br/>
 
@@ -52,29 +54,29 @@
 </tr>
 
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
 ### 🎨 Frontend
 
-<br/>
-
-<img src="https://cdn.simpleicons.org/nextdotjs" height="45"/>
-<img src="https://cdn.simpleicons.org/react" height="45"/>
+<img src="https://cdn.simpleicons.org/nextdotjs" height="48"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/react" height="48"/>
 
 <br/><br/>
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
 ### ☁ Cloud
 
-<br/>
-
-<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="45"/>
-<img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="45"/>
-<img src="https://cdn.simpleicons.org/docker" height="45"/>
-<img src="https://cdn.simpleicons.org/linux" height="45"/>
+<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="48"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="48"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker" height="48"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/linux" height="48"/>
 
 <br/><br/>
 
