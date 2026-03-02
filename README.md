@@ -18,61 +18,69 @@
 
 ## ⚙ Tech Stack
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🧠 AI / LLM
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/langchain" height="40"/>
-  <img src="https://cdn.simpleicons.org/openai" height="40"/>
-  <img src="https://cdn.simpleicons.org/vercel" height="40"/>
-</p>
+<br/>
+
+<img src="https://cdn.simpleicons.org/langchain" height="45"/>
+<img src="https://cdn.simpleicons.org/openai" height="45"/>
+<img src="https://cdn.simpleicons.org/vercel" height="45"/>
+
+<br/><br/>
 
 </td>
-<td width="50%" valign="top">
+
+<td width="50%" valign="top" align="center">
 
 ### 💻 Backend
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/python" height="40"/>
-  <img src="https://cdn.simpleicons.org/fastapi" height="40"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs" height="40"/>
-  <img src="https://cdn.simpleicons.org/redis" height="40"/>
-  <img src="https://cdn.simpleicons.org/postgresql" height="40"/>
-</p>
+<br/>
+
+<img src="https://cdn.simpleicons.org/python" height="45"/>
+<img src="https://cdn.simpleicons.org/fastapi" height="45"/>
+<img src="https://cdn.simpleicons.org/nodedotjs" height="45"/>
+<img src="https://cdn.simpleicons.org/redis" height="45"/>
+<img src="https://cdn.simpleicons.org/postgresql" height="45"/>
+
+<br/><br/>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🎨 Frontend
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/nextdotjs" height="40"/>
-  <img src="https://cdn.simpleicons.org/react" height="40"/>
-</p>
+<br/>
+
+<img src="https://cdn.simpleicons.org/nextdotjs" height="45"/>
+<img src="https://cdn.simpleicons.org/react" height="45"/>
+
+<br/><br/>
 
 </td>
-<td width="50%" valign="top">
+
+<td width="50%" valign="top" align="center">
 
 ### ☁ Cloud
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="40"/>
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40"/>
-  <img src="https://cdn.simpleicons.org/docker" height="40"/>
-  <img src="https://cdn.simpleicons.org/linux" height="40"/>
-</p>
+<br/>
+
+<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="45"/>
+<img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="45"/>
+<img src="https://cdn.simpleicons.org/docker" height="45"/>
+<img src="https://cdn.simpleicons.org/linux" height="45"/>
+
+<br/><br/>
 
 </td>
 </tr>
 </table>
-
----
 
 ## 🤝 Connect
 
