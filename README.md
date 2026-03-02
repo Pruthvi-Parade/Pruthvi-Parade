@@ -1,85 +1,102 @@
-<h1 align="center">Pruthvi 👋</h1>
+<h1 align="center">Hey there I'm Pruthvi Parade👋</h1>
 
 <p align="center">
-🧠 Deep AI Systems • Agentic Workflows • LLM Architectures  
+🧠 Deep AI Systems · Agentic Workflows · LLM Architectures  
 ⚡ AI Agent Infrastructure
 </p>
 
+<br/>
+
+## 🌟 About
+
+- 🧠 Building intelligent AI systems  
+- 🔬 Exploring agent orchestration, fine-tuning & evaluation  
+- 💬 Open to conversations around AI systems & backend architecture  
+- 📫 parade.pruthvi@gmail.com  
+
 ---
 
-### 🌟 About Me
-- 🌱 I love exchanging random ideas ✨
-- 🧠 Building intelligent AI systems 
-- 🔬 Exploring agent orchestration, model fine-tuning, and evaluation frameworks
-- 📫 Reach me at parade.pruthvi@gmail.com
-
----
-
-## ⚙️ Tech Stack
+## ⚙ Tech Stack
 
 ### 🧠 AI / LLM
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/langchain/000000" height="45" />
-  <img src="https://cdn.simpleicons.org/openai/000000" height="45" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="45" />
-</p>
+<p>
+  <!-- LangChain -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/langchain/white">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/langchain/black">
+    <img src="https://cdn.simpleicons.org/langchain" height="40"/>
+  </picture>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="45" /> <!-- LangGraph -->
-  <img src="https://raw.githubusercontent.com/modelcontextprotocol/.github/main/profile/mcp-logo.svg" height="45" /> <!-- MCP -->
+  <!-- OpenAI -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/openai/white">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/openai/black">
+    <img src="https://cdn.simpleicons.org/openai" height="40"/>
+  </picture>
+
+  <!-- Vercel -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/white">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/vercel/black">
+    <img src="https://cdn.simpleicons.org/vercel" height="40"/>
+  </picture>
 </p>
 
 ---
 
 ### 💻 Backend
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="45" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="45" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" />
-  <img src="https://cdn.simpleicons.org/redis/DC382D" height="45" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="45" />
+<p>
+  <img src="https://cdn.simpleicons.org/python" height="40"/>
+  <img src="https://cdn.simpleicons.org/fastapi" height="40"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs" height="40"/>
+  <img src="https://cdn.simpleicons.org/redis" height="40"/>
+  <img src="https://cdn.simpleicons.org/postgresql" height="40"/>
 </p>
 
 ---
 
 ### 🎨 Frontend
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="45" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="45" />
+<p>
+  <!-- Next.js -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/white">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/black">
+    <img src="https://cdn.simpleicons.org/nextdotjs" height="40"/>
+  </picture>
+
+  <img src="https://cdn.simpleicons.org/react" height="40"/>
 </p>
 
 ---
 
-### ☁ Cloud & Infra
+### ☁ Cloud
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="45" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="45" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="45" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="45" />
+<p>
+  <img src="https://cdn.simpleicons.org/microsoftazure" height="40"/>
+  <img src="https://cdn.simpleicons.org/amazonaws" height="40"/>
+  <img src="https://cdn.simpleicons.org/docker" height="40"/>
+  <img src="https://cdn.simpleicons.org/linux" height="40"/>
 </p>
-
----
 
 ## 📊 GitHub
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pruthvi-Parade&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pruthvi-parade&show_icons=true&theme=dark&hide_border=true" />
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pruthvi-Parade&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pruthvi-parade&show_icons=true&theme=dark&hide_border=true" height="150"/>
 </p>
 
 ---
 
-### 🤝 Connect
+## 🤝 Connect
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/pruthvi-parade-2040b0248/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="35"/>
+    <img src="https://cdn.simpleicons.org/linkedin" height="30"/>
   </a>
   <a href="mailto:parade.pruthvi@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="35"/>
+    <img src="https://cdn.simpleicons.org/gmail" height="30"/>
   </a>
 </p>
