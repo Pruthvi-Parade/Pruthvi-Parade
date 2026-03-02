@@ -18,36 +18,24 @@
 
 ## ⚙ Tech Stack
 
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
 ### 🧠 AI / LLM
 
-<p>
-  <!-- LangChain -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/langchain/white">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/langchain/black">
-    <img src="https://cdn.simpleicons.org/langchain" height="40"/>
-  </picture>
-
-  <!-- OpenAI -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/openai/white">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/openai/black">
-    <img src="https://cdn.simpleicons.org/openai" height="40"/>
-  </picture>
-
-  <!-- Vercel -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/white">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/vercel/black">
-    <img src="https://cdn.simpleicons.org/vercel" height="40"/>
-  </picture>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/langchain" height="40"/>
+  <img src="https://cdn.simpleicons.org/openai" height="40"/>
+  <img src="https://cdn.simpleicons.org/vercel" height="40"/>
 </p>
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 💻 Backend
 
-<p>
+<p align="center">
   <img src="https://cdn.simpleicons.org/python" height="40"/>
   <img src="https://cdn.simpleicons.org/fastapi" height="40"/>
   <img src="https://cdn.simpleicons.org/nodedotjs" height="40"/>
@@ -55,46 +43,42 @@
   <img src="https://cdn.simpleicons.org/postgresql" height="40"/>
 </p>
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🎨 Frontend
 
-<p>
-  <!-- Next.js -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/white">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/black">
-    <img src="https://cdn.simpleicons.org/nextdotjs" height="40"/>
-  </picture>
-
+<p align="center">
+  <img src="https://cdn.simpleicons.org/nextdotjs" height="40"/>
   <img src="https://cdn.simpleicons.org/react" height="40"/>
 </p>
 
----
+</td>
+<td width="50%" valign="top">
 
 ### ☁ Cloud
 
-<p>
-  <img src="https://cdn.simpleicons.org/microsoftazure" height="40"/>
-  <img src="https://cdn.simpleicons.org/amazonaws" height="40"/>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="40"/>
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40"/>
   <img src="https://cdn.simpleicons.org/docker" height="40"/>
   <img src="https://cdn.simpleicons.org/linux" height="40"/>
 </p>
 
-## 📊 GitHub
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pruthvi-Parade&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=pruthvi-parade&show_icons=true&theme=dark&hide_border=true" height="150"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🤝 Connect
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/pruthvi-parade-2040b0248/">
-    <img src="https://cdn.simpleicons.org/linkedin" height="30"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30"/>
   </a>
   <a href="mailto:parade.pruthvi@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail" height="30"/>
