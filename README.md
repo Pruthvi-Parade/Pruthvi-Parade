@@ -95,6 +95,19 @@
 </table>
 
 </div>
+
+## 📊 GitHub Stats
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Pruthvi-Parade&theme=dark&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=pruthvi-parade&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
+
 ## 🤝 Connect
 
 <p align="center">
