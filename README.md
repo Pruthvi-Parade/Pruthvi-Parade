@@ -66,7 +66,13 @@
 
 <br/>
 
-<img src="https://cdn.simpleicons.org/nextdotjs" height="50"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50"/>
+</picture>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/react" height="50"/>
 
@@ -111,7 +117,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pruthvi-parade-2040b0248/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/>
   </a>
   <a href="mailto:parade.pruthvi@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail" height="30"/>
